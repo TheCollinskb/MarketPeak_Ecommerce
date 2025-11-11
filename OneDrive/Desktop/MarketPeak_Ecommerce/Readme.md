@@ -2,7 +2,6 @@
 
 **Live URL:**  
 `http://$(curl -s http://3.81.229.99/latest/meta-data/public-ipv4)`  
-*(Replace with your actual public IP after launch)*
 
 **Status:** LIVE & WORKING  
 **Location:** Canada  
