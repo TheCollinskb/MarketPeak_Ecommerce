@@ -167,3 +167,4 @@ Your site will now be:
 | SELinux errors           | Run `sudo restorecon -R -v /var/www/html/` |
 
 
+![21.updated_eco_lume.png](./images/21.updated_eco_lume.png)
